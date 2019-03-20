@@ -1,0 +1,17 @@
+formalize.js
+--------------------------------------------------------------------------------
+isEmpty();
+isNull();
+isUndefined();
+isLetter();
+isNumber();
+isNumberOrLetter();
+isMail();
+isPhone();
+isIP();
+isCreditcard();
+isURL();
+isHTML();
+isTime();
+isDate();
+isImage();

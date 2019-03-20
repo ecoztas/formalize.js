@@ -1,0 +1,10 @@
+{
+    "files": [
+        "src/formalize.ts"
+    ],
+    "compilerOptions":
+    {
+        "noImplicitAny": true,
+        "target": "es5"
+    }
+}

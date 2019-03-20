@@ -1,0 +1,15 @@
+{
+    "name": "formalize.js",
+    "version": "1.0.0",
+    "description": "Form data controller",
+    "main": "index.js",
+    "repository": "https://emrecanoztas.com",
+    "author": "Emre Can ÖZTAŞ <me@emrecanoztas.com>",
+    "license": "MIT",
+    "private": false,
+    "devDependencies": {
+        "gulp": "^4.0.0",
+        "gulp-typescript": "^5.0.1",
+        "typescript": "^3.3.4000"
+    }
+}
