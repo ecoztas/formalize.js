@@ -2,8 +2,7 @@
     "files": [
         "src/formalize.ts"
     ],
-    "compilerOptions":
-    {
+    "compilerOptions": {
         "noImplicitAny": true,
         "target": "es5"
     }
